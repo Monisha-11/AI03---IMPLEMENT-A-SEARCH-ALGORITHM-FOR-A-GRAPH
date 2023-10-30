@@ -1,4 +1,4 @@
-# EXP03- Implement A* search algorithm for a Graph
+# EXP 03- Implement A* search algorithm for a Graph
 
 #### NAME: MONISHA T
 #### REG NO: 212221240029
